@@ -1,0 +1,5 @@
+data/train2014/*.jpg
+data/annotations/*.json
+.pyenv
+data
+.ipynb_checkpoints
